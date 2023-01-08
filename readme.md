@@ -72,9 +72,10 @@
 ## :star2: About the Project
 
 <div align="center"> 
-  <img src="readme_assets/Zexercise-mockup-1.png" height="auto" width="50%" />
-  <img src="readme_assets/Zexercise-mockup-2.png" height="auto" width="50%" />
+  <img src="readme_assets/Zexercise-mockup-1.png" height="auto" width="35%"/>
+  <img src="readme_assets/Zexercise-mockup-2.png" height="auto" width="36%"/>
 </div>
+
 <br />
 
 Zexercise is a Fitness Exercises App with the functionality to choose exercise categories and specific muscle groups,
