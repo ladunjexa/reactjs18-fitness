@@ -72,7 +72,8 @@
 ## :star2: About the Project
 
 <div align="center"> 
-  <img src="readme_assets/Explorium-mockup.png" height="auto" width="85%" />
+  <img src="readme_assets/Zexercise-mockup-1.png" height="auto" width="50%" />
+  <img src="readme_assets/Zexercise-mockup-2.png" height="auto" width="50%" />
 </div>
 <br />
 
