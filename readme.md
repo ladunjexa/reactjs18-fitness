@@ -33,7 +33,7 @@
 </p>
    
  <h4>
-    <a href="https://github.com/ladunjexa/Zexercise-Fitness-App/">View Demo</a>
+    <a href="https://zexercise-fitness-app.vercel.app/">View Demo</a>
   <span> · </span>
     <a href="https://github.com/ladunjexa/Zexercise-Fitness-App">Documentation</a>
   <span> · </span>
